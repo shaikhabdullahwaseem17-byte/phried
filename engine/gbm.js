@@ -1,8 +1,3 @@
-/**
- * Quvanti Labs v2 — GBM Stochastic Engine
- * Geometric Brownian Motion path generator using Box-Muller transform.
- * Pure, dependency-free, fully open-source compliant.
- */
 
 /**
  * Box-Muller Transform
